@@ -1,0 +1,29 @@
+name: Update ENVIRONMENT_CODE on Merge
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-environment-variable:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Modify Globals.cs
+        run: |
+          sed -i 's/ENVIRONMENT_CODE = "UAT"/ENVIRONMENT_CODE = "PRODUCTION"/g' IM_CONSOLE_PROJECT/Globals.cs
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add IM_CONSOLE_PROJECT/Globals.cs
+          git commit -m "Updated ENVIRONMENT_CODE to PRODUCTION after merging UAT to master"
+          git push
