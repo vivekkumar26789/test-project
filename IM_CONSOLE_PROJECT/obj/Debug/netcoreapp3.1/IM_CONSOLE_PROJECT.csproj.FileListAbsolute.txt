@@ -1,0 +1,13 @@
+/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/bin/Debug/netcoreapp3.1/IM_CONSOLE_PROJECT.deps.json
+/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/bin/Debug/netcoreapp3.1/IM_CONSOLE_PROJECT.runtimeconfig.json
+/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/bin/Debug/netcoreapp3.1/IM_CONSOLE_PROJECT.runtimeconfig.dev.json
+/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/bin/Debug/netcoreapp3.1/IM_CONSOLE_PROJECT.dll
+/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/bin/Debug/netcoreapp3.1/IM_CONSOLE_PROJECT.pdb
+/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/obj/Debug/netcoreapp3.1/IM_CONSOLE_PROJECT.csproj.AssemblyReference.cache
+/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/obj/Debug/netcoreapp3.1/IM_CONSOLE_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/obj/Debug/netcoreapp3.1/IM_CONSOLE_PROJECT.AssemblyInfoInputs.cache
+/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/obj/Debug/netcoreapp3.1/IM_CONSOLE_PROJECT.AssemblyInfo.cs
+/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/obj/Debug/netcoreapp3.1/IM_CONSOLE_PROJECT.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/obj/Debug/netcoreapp3.1/IM_CONSOLE_PROJECT.dll
+/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/obj/Debug/netcoreapp3.1/IM_CONSOLE_PROJECT.pdb
+/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/obj/Debug/netcoreapp3.1/IM_CONSOLE_PROJECT.genruntimeconfig.cache
